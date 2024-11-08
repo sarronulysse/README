@@ -1,27 +1,24 @@
-Systematic Trading Strategies Portfolio
-
 Welcome to my portfolio of systematic trading and quantitative research projects. Below is an overview of the key strategies and tools I have developed:
 
-## Projects
+Main Projects:
 
-### 1. **AI-Driven Systematic Equity Relative Value Volatility Trading Strategy**
-- Description: Leveraging AI to develop equity relative value strategies with a focus on volatility trading.
+1. AI-Driven Systematic Equity Relative Value Volatility Trading Strategy
+      - US ETF Relative Value Volatility Trading: AI-Driven Strategy Leveraging High-Frequency Data, Attention-Based Deep Learning, and Parameter-Rich Functional
 
-### 2. **DML in Calibrating Heston Stochastic Volatility Models for EQD**
-- Description: Deep Machine Learning techniques for calibrating Heston models in equity derivatives.
+2. DML in Calibrating Heston Stochastic Volatility Models for EQD
+      - Advanced the application of Differential Machine Learning in calibrating Heston stochastic volatility models for equity derivatives, achieving significant 
+        improvements in pricing accuracy and computational efficiency.
 
-### 3. **Systematic Equity and Fixed Income Volatility Arbitrage**
-- Description: Cross-asset arbitrage strategies targeting systematic volatility opportunities.
+3. Data Visualization Analytics Tools for the Swap Market 
 
-### 4. **Systematic Fixed Income Relative Value**
-- Description: Relative value strategies in the fixed-income space, with SOFR-based benchmarking.
+4. Systematic Equity and Fixed Income Volatility Arbitrage 
 
-### 5. **Systematic FX Carry, Momentum, and Global Macro Strategies**
-- Description: Combining carry, momentum, and macroeconomic signals for FX trading.
+5. Systematic FX Carry, Momentum, and Global Macro Strategies
 
-### 6. **Data Visualization Analytics Tools for the Swap Market**
-- Description: Advanced data visualization tools to analyze and monitor swap market dynamics.
+6. Systematic Fixed Income Relative Value
+
+7. G10 Macro dynamic factor models
 
 ---
 
-For more details or access to specific projects, please feel free to [contact me](mailto:sarron.ulysse@pm.me).
+For more details or access to specific projects, please feel free to contact me at sarron.ulysse@pm.me.
